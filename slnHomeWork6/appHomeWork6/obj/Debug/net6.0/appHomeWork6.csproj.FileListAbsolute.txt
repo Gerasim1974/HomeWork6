@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\bin\Debug\net6.0\appHomeWork6.exe
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\bin\Debug\net6.0\appHomeWork6.deps.json
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\bin\Debug\net6.0\appHomeWork6.runtimeconfig.json
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\bin\Debug\net6.0\appHomeWork6.dll
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\bin\Debug\net6.0\appHomeWork6.pdb
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.dll
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\refint\appHomeWork6.dll
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.pdb
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\appHomeWork6.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork6\HomeWork6\slnHomeWork6\appHomeWork6\obj\Debug\net6.0\ref\appHomeWork6.dll
